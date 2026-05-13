@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haris-21&theme=tokyonight" width="100%" />
     &nbsp;
-  <img src="https://github-contributor-stats.vercel.app/api?username=Haris-21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haris-21&theme=tokyo-night&hide_border=true" width="100%" />
 
 </p>
 
