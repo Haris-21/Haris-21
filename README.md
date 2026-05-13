@@ -22,6 +22,7 @@
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" />
