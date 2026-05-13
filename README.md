@@ -25,6 +25,11 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui" />
+  <img src="https://img.shields.io/badge/Magic_UI-6D28D9?style=for-the-badge&logo=magic" />
+  <img src="https://img.shields.io/badge/Aceternity_UI-FF6B6B?style=for-the-badge" />
+</p>
 </p>
 
 ### Backend
