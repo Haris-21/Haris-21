@@ -1,3 +1,4 @@
+<img width="2125" height="710" alt="banner" src="https://github.com/user-attachments/assets/e8167aec-017a-46bc-b9c9-2b50fbd323cc" />
 <h1 align="center">Hi 👋, I'm Kunwar Muhammad Haris</h1>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
