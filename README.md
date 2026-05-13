@@ -50,9 +50,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haris-21&show_icons=true&theme=tokyonight" height="180em" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris-21&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haris-21&theme=tokyonight" width="100%" />
 </p>
 
 ---
