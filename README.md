@@ -1,5 +1,5 @@
 <img width="2125" height="710" alt="banner" src="https://github.com/user-attachments/assets/e8167aec-017a-46bc-b9c9-2b50fbd323cc" />
-<h3 align="center">Frontend / Full Stack Software Engineer</h3>
+<h3 align="center">Software Engineer | Software Architecture | Compliance Tech</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=React+Developer;Next.js+%7C+TypeScript+Developer;Supabase+%7C+Node.js+Engineer;Building+Modern+Web+Applications" />
